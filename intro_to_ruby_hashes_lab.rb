@@ -50,16 +50,16 @@ def monopoly_with_fourth_tier
       :pieces => 4,
       :names => {
         :reading_railroad => {
-          "mortgage": "$100"
+          "mortgage_value": "$100"
         },
         :pennsylvania_railroad => {
-          "mortgage": "$200"
+          "mortgage_value": "$200"
         },
         :b_and_o_railroad => {
-          "mortgage": "$400"
+          "mortgage_value": "$400"
         },
         :shortline => {
-          "mortgage": "$800"
+          "mortgage_value": "$800"
         }
       },
       :rent_in_dollars => {
